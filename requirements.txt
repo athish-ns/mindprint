@@ -1,0 +1,16 @@
+streamlit
+dataclasses-json
+opencv-python
+numpy
+mahotas
+scikit-learn
+scipy
+pytesseract
+pandas
+google-auth
+google-auth-oauthlib
+cirq
+pyotp
+qrcode
+pillow
+cryptography 
