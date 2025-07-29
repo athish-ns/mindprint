@@ -1,6 +1,6 @@
 streamlit
 dataclasses-json
-opencv-python
+opencv-python==4.11.0.86
 numpy
 mahotas
 scikit-learn
